@@ -2,7 +2,7 @@
   <div class="serch">
     <input
       type="text"
-      placeholder="搜索--书本名称"
+      placeholder=" 搜索--书本名称"
       v-model.trim="bookName"
       @keyup.enter="serchBook"
     />

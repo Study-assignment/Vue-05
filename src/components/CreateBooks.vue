@@ -1,8 +1,12 @@
 <template>
   <div class="add">
-    <input type="text" placeholder="书名" v-model.trim="bookInfo.bookname" />
-    <input type="text" placeholder="作者" v-model.trim="bookInfo.author" />
-    <input type="text" placeholder="出版社" v-model.trim="bookInfo.publisher" />
+    <input type="text" placeholder=" 书名" v-model.trim="bookInfo.bookname" />
+    <input type="text" placeholder=" 作者" v-model.trim="bookInfo.author" />
+    <input
+      type="text"
+      placeholder=" 出版社"
+      v-model.trim="bookInfo.publisher"
+    />
     <button @click="addbook" :disabled="isclick">新增</button>
   </div>
 </template>
@@ -61,9 +65,11 @@ export default {
     height: 30px;
   }
   button {
+    color: #fff;
     height: 30px;
+    width: 50px;
     border: 1px solid black;
-    background-color: skyblue;
+    background-color: #2f7de3;
   }
 }
 </style>

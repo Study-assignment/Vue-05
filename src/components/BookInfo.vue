@@ -41,4 +41,7 @@ a {
   margin: 5px;
   text-decoration: none;
 }
+tr:hover {
+  background-color: #ccc;
+}
 </style>
