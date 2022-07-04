@@ -5,5 +5,5 @@
 <li><a href="https://github.com/Study-assignment/Vue-05/tree/webxf"> webxf&nbsp;:  金&nbsp;絮&nbsp;帆 </a></li>
 <li><a href="https://github.com/Study-assignment/Vue-05/tree/zzy"> zzy&nbsp;:&nbsp; &nbsp;  &nbsp;&nbsp;张&nbsp;尊&nbsp;勇</a></li>
 <li><a href="https://github.com/Study-assignment/Vue-05/tree/xx0tt"> xx0tt&nbsp;:&nbsp;  &nbsp;徐&nbsp;金&nbsp;平&nbsp; </a></li>
-<li><a href="https://github.com/Study-assignment/Vue-05/tree/tianhui"> tian&nbsp;hui&nbsp;:&nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;田&nbsp;辉</a></li>
+<li><a href="https://github.com/Study-assignment/Vue-05/tree/tianhui"> tian&nbsp;hui&nbsp;&nbsp;&nbsp;&nbsp;田&nbsp;辉</a></li>
 </ul>
